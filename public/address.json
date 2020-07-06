@@ -1,0 +1,8 @@
+{
+    "addresses" : [
+       {"name": "Taj Mahal", "weight": 10},
+       {"name": "Statue Of Liberty", "weight": 5}
+         
+    ]
+  }
+  
